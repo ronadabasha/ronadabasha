@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&layout=compact&theme=light)](https://github.com/ronadabasha/github-readme-stats) -->
 
 <a href="https://github.com/ronadabasha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&theme=light&count_private=true&layout=compact" width="500" alt="Sudheer's most used languages" />
 </a>
 
 <div style:"display: flex">
