@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### :fire: My Stats :
+
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronadabasha&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&layout=compact&theme=light)](https://github.com/ronadabasha/github-readme-stats) -->
+
+<a href="https://github.com/ronadabasha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+</a>
+<a href="https://github.com/ronadabasha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronadabasha&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+</a>
+
 <div style:"display: flex">
   
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
