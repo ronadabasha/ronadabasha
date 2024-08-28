@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 💻 &nbsp; About Me :
+
+- Over 8 years of hands-on experience developing web and mobile applications
+
+- I've successfully led teams and collaborated within diverse work environments, ranging from small to large companies.
+- Enthusiastic and adaptable professional committed to ongoing learning and embracing new challenges to enhance skills and contribute effectively in a dynamic work environment.
+
 #### :fire: My Stats :
 
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronadabasha&theme=dark&background=000000)](https://git.io/streak-stats)
