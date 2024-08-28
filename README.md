@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ronadabasha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
-<a href="https://github.com/ronadabasha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronadabasha&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
-</a>
 
 <div style:"display: flex">
   
