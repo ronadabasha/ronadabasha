@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ronada Fishti
 
 <!--
 **ronadabasha/ronadabasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 💻 &nbsp; About Me :
+## Senior Frontend Developer
 
-- Over 8 years of hands-on experience developing web and mobile applications
+- With over 8 years of hands-on experience developing web and mobile applications
 
 - I've successfully led teams and collaborated within diverse work environments, ranging from small to large companies.
 - Enthusiastic and adaptable professional committed to ongoing learning and embracing new challenges to enhance skills and contribute effectively in a dynamic work environment.
