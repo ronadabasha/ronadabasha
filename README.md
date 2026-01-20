@@ -7,16 +7,6 @@
 - I've successfully led teams and collaborated within diverse work environments, ranging from small to large companies.
 - Enthusiastic and adaptable professional committed to ongoing learning and embracing new challenges to enhance skills and contribute effectively in a dynamic work environment.
 
-#### :fire: My Stats :
-
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronadabasha&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&layout=compact&theme=light)](https://github.com/ronadabasha/github-readme-stats) -->
-
-<a href="https://github.com/ronadabasha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronadabasha&theme=light&count_private=true&layout=compact" width="350" alt="Most used languages" />
-</a>
-
 ## :hammer_and_wrench: Languages and Tools :
 
 #### Frontend:
