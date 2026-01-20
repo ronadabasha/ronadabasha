@@ -7,7 +7,7 @@
 - I've successfully led teams and collaborated within diverse work environments, ranging from small to large companies.
 - Enthusiastic and adaptable professional committed to ongoing learning and embracing new challenges to enhance skills and contribute effectively in a dynamic work environment.
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools:
 
 #### Frontend:
 
